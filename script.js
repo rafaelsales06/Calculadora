@@ -35,6 +35,7 @@ function clear_Parcial(){
     sinal = true;
     numVali = 0;
     numConter = 0;
+    parcialNumber= "";
 }
 
 function porcent(){
